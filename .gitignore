@@ -105,3 +105,11 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# AI-process artifacts (kept locally, excluded from the public portfolio repo)
+/Assets/Plans/
+/Assets/Plans.meta
+/Assets/Prompt/
+/Assets/Prompt.meta
+/Assets/CLAUDE.md
+/Assets/CLAUDE.md.meta

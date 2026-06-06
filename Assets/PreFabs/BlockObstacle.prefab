@@ -268,7 +268,7 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: 21300000, guid: e33968632adce4841ac6122d412120bc, type: 3}
-  m_Color: {r: 1, g: 0.55, b: 0.15, a: 1}
+  m_Color: {r: 0, g: 1, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -351,8 +351,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BinaryBlock
   spriteRenderer: {fileID: 2907005898718131494}
   label: {fileID: 574098946682100410}
-  colorZero: {r: 0.9, g: 0.2, b: 0.2, a: 1}
-  colorOne: {r: 0.2, g: 0.5, b: 1, a: 1}
+  colorZero: {r: 0, g: 1, b: 0, a: 1}
+  colorOne: {r: 0, g: 1, b: 0, a: 1}
 --- !u!114 &6160286194836164461
 MonoBehaviour:
   m_ObjectHideFlags: 0

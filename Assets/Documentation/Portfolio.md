@@ -30,7 +30,7 @@ Leveraged Unity's AI generation tools to rapidly prototype and iterate on hazard
 *   **Software Architecture:** Singleton pattern, Observer pattern (Static Event Bus), Object Pooling.
 *   **Unity Features:** URP Volume framework, TextMesh Pro styling, New Input System, Coroutines, ScriptableObjects.
 *   **Persistence:** Persistent Save/Load system via a static API layer over PlayerPrefs.
-*   **Testing:** Automated in-editor **Play Mode tests** used to validate character physics and level unlock logic.
+*   **Testing & Iteration:** Hands-on in-editor playtesting across all levels, the death/restart flow, and level-unlock logic to tune game feel and catch edge cases.
 
 ## 📈 Outcome
 The project resulted in a highly scalable runner framework. The decoupled architecture allows for adding new hazards, power-ups, or levels in minutes by simply creating a new prefab or ScriptableObject and wiring it into the existing managers.
