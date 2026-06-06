@@ -4,6 +4,10 @@ A fast, neon **cyberpunk endless runner** built in **Unity 6**. Sprint through a
 city at night, jump and slide past hazards, grab stars to clear each level, and trigger
 "Speed Rush" for a high-risk, high-reward dash.
 
+[![Play on itch.io](https://img.shields.io/badge/▶%20Play%20on-itch.io-fa5c5c?style=for-the-badge&logo=itch.io&logoColor=white)](https://ykk7.itch.io/bitrunner-cyberpunk)
+&nbsp;
+[![Download for Windows](https://img.shields.io/badge/⬇%20Download-Windows-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/YahyaKhan078/BitRunner/releases/latest)
+
 ![BitRunner](screenshots/mainmenu.png)
 
 ## ▶️ Play it
@@ -16,7 +20,7 @@ city at night, jump and slide past hazards, grab stars to clear each level, and 
 > Windows may show a SmartScreen warning because the build isn't code-signed —
 > click **More info → Run anyway**. It's a safe indie build.
 
-**🌐 Play in your browser:** an itch.io build is _coming soon_.
+**🌐 [Play in your browser on itch.io ▶️](https://ykk7.itch.io/bitrunner-cyberpunk)** — no download needed, runs right in the page.
 
 ## 📸 Screenshots
 
