@@ -7,8 +7,16 @@ city at night, jump and slide past hazards, grab stars to clear each level, and 
 ![BitRunner](screenshots/mainmenu.png)
 
 ## ▶️ Play it
-**[Play in your browser (itch.io)](https://itch.io/) — _link coming soon_**
-A downloadable Windows build is also available in the [Releases](../../releases) section.
+
+**⬇️ Download & play (Windows):**
+1. Open the **[latest release](https://github.com/YahyaKhan078/BitRunner/releases/latest)** and download **`BitRunner.zip`**.
+2. Unzip the whole folder (keep `BitRunner.exe` and the `BitRunner_Data` folder together).
+3. Run **`BitRunner.exe`**.
+
+> Windows may show a SmartScreen warning because the build isn't code-signed —
+> click **More info → Run anyway**. It's a safe indie build.
+
+**🌐 Play in your browser:** an itch.io build is _coming soon_.
 
 ## 📸 Screenshots
 
