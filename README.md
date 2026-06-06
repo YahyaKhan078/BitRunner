@@ -4,18 +4,25 @@ A fast, neon **cyberpunk endless runner** built in **Unity 6**. Sprint through a
 city at night, jump and slide past hazards, grab stars to clear each level, and trigger
 "Speed Rush" for a high-risk, high-reward dash.
 
-<!-- Replace this banner with your own image: put it in the screenshots/ folder -->
-![BitRunner banner](screenshots/banner.png)
+![BitRunner](screenshots/mainmenu.png)
 
 ## ▶️ Play it
 **[Play in your browser (itch.io)](https://itch.io/) — _link coming soon_**
 A downloadable Windows build is also available in the [Releases](../../releases) section.
 
 ## 📸 Screenshots
-<!-- Add your own screenshots to the screenshots/ folder, then they'll show up here -->
-| Main Menu | Gameplay | Game Over |
+
+| Main Menu | Level Select | Loading |
 |---|---|---|
-| ![Menu](screenshots/menu.png) | ![Gameplay](screenshots/gameplay.png) | ![Game Over](screenshots/gameover.png) |
+| ![Main Menu](screenshots/mainmenu.png) | ![Level Select](screenshots/levels.png) | ![Loading](screenshots/loadingscreen.png) |
+
+| Level 1 | Level 2 | Level 3 |
+|---|---|---|
+| ![Level 1](screenshots/level1.png) | ![Level 2](screenshots/level2.png) | ![Level 3](screenshots/level3.png) |
+
+| Start Countdown | Help & Controls | Pause |
+|---|---|---|
+| ![Start](screenshots/starting.png) | ![Help](screenshots/help.png) | ![Pause](screenshots/pause.png) |
 
 ## ✨ What it does
 - **Three campaign levels + an unlockable Endless mode.** Collect enough stars to clear a
