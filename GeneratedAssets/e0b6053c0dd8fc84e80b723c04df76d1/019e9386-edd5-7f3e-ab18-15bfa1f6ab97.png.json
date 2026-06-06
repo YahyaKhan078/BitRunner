@@ -1,0 +1,28 @@
+{
+    "asset": "e0b6053c0dd8fc84e80b723c04df76d1",
+    "fileName": "019e9386-edd5-7f3e-ab18-15bfa1f6ab97.png",
+    "prompt": "16-bit pixel art, cyberpunk neon side-scroller parallax FAR background layer. A distant futuristic city skyline silhouette under a dark night sky, glowing MAGENTA and purple neon accents on faraway skyscrapers, a few stars, atmospheric purple haze. Opaque full-frame background (sky fills the whole image). Crisp pixels, high detail. Horizontally seamless tileable so the left and right edges match perfectly for endless scrolling. No characters, no text, no UI.",
+    "negativePrompt": "",
+    "model": "gemini-3.0-pro",
+    "modelName": "Gemini 3.0 Pro",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

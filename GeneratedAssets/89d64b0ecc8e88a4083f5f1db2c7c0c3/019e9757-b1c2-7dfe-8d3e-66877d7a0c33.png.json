@@ -1,0 +1,28 @@
+{
+    "asset": "89d64b0ecc8e88a4083f5f1db2c7c0c3",
+    "fileName": "019e9757-b1c2-7dfe-8d3e-66877d7a0c33.png",
+    "prompt": "2D game obstacle sprite, side view, a short neon \"firewall\" barrier hazard for a cyberpunk runner game. A low glowing red-orange energy wall with a digital circuit-board base and small binary 0/1 symbols, sharp readable silhouette, flat 2D game-art style, vibrant neon glow, clean edges, centered, isolated on plain background. No text watermark.",
+    "negativePrompt": "",
+    "model": "gemini-3.1-flash",
+    "modelName": "Gemini 3.1 Nano Banana 2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

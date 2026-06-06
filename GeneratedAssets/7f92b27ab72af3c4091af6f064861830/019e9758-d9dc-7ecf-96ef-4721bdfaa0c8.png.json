@@ -1,0 +1,28 @@
+{
+    "asset": "7f92b27ab72af3c4091af6f064861830",
+    "fileName": "019e9758-d9dc-7ecf-96ef-4721bdfaa0c8.png",
+    "prompt": "2D game platform sprite, side view, a wide floating glowing ledge for a neon cyberpunk runner game. A long horizontal slab with a solid flat top surface to stand on, bright cyan neon edge lighting, subtle circuit-board pattern, flat 2D game-art style, clearly standable, crisp clean edges, centered, isolated on a plain empty background, wide horizontal shape.",
+    "negativePrompt": "",
+    "model": "gemini-3.1-flash",
+    "modelName": "Gemini 3.1 Nano Banana 2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 2048,
+        "height": 832
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

@@ -1,0 +1,28 @@
+{
+    "asset": "e33968632adce4841ac6122d412120bc",
+    "fileName": "019e9757-b6f9-7144-8d38-56be1051790e.png",
+    "prompt": "2D game obstacle sprite, a small glowing cyberpunk \"data cube\" block hazard for a runner game. A compact neon-edged cube with circuit lines and a glowing core, cyan and blue glow, flat 2D game-art style, sharp readable silhouette, clean edges, centered, isolated on plain background. Leave the center face fairly flat so a number can be overlaid. No text watermark.",
+    "negativePrompt": "",
+    "model": "gemini-3.1-flash",
+    "modelName": "Gemini 3.1 Nano Banana 2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

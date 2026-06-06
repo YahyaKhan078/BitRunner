@@ -1,0 +1,15 @@
+{
+    "asset": "bdc5d1a2b83afa9418166e1216bf7b91",
+    "fileName": "019e9441-7c82-7bdd-805f-0cc377a77d60.mp3",
+    "prompt": "Intense cyberpunk industrial metal hybrid, orange and red neon atmosphere, heavy distorted synths, high stakes, 150bpm, climax theme. Hellish futuristic city.",
+    "negativePrompt": "",
+    "model": "google-lyria-3-clip",
+    "modelName": "Google Lyria 3 Clip",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

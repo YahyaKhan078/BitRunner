@@ -1,0 +1,28 @@
+{
+    "asset": "34f827506a0ff2a428ff763cc70239b2",
+    "fileName": "019e9387-7087-7fae-8f09-4aedcb4d5c11.png",
+    "prompt": "16-bit pixel art game power-up icon: a single bright GREEN chevron / double-arrow pointing to the RIGHT, glowing neon green, representing a speed boost. Bold, clean, centered in the frame, with a soft green glow. Plain solid white background (will be made transparent). No text.",
+    "negativePrompt": "",
+    "model": "gemini-3.0-pro",
+    "modelName": "Gemini 3.0 Pro",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

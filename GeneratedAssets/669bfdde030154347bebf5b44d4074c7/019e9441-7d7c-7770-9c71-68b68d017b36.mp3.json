@@ -1,0 +1,15 @@
+{
+    "asset": "669bfdde030154347bebf5b44d4074c7",
+    "fileName": "019e9441-7d7c-7770-9c71-68b68d017b36.mp3",
+    "prompt": "Fast-paced cyberpunk techno music track, neon atmosphere, synthwave, 120bpm, driving bassline, retro-futuristic. Cyan neon city theme.",
+    "negativePrompt": "",
+    "model": "google-lyria-3-clip",
+    "modelName": "Google Lyria 3 Clip",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

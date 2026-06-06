@@ -1,0 +1,28 @@
+{
+    "asset": "cafc63ea0e1a50b4e85792733d3e9310",
+    "fileName": "019e9387-6793-749e-8c97-90d208eb81fa.png",
+    "prompt": "16-bit pixel art, cyberpunk NEAR foreground parallax layer: dark foreground street props along the bottom — neon signs, pipes, cables, small antennae and barriers, all dark silhouettes with bright neon edge glow. Only the bottom third has props; the rest of the image is PLAIN SOLID WHITE (will be made transparent). Crisp pixels, high detail. Horizontally seamless tileable (left and right edges match). No characters, no readable text.",
+    "negativePrompt": "",
+    "model": "gemini-3.0-pro",
+    "modelName": "Gemini 3.0 Pro",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

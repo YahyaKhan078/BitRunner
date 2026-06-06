@@ -1,0 +1,28 @@
+{
+    "asset": "b6b0935af663c674c853cd159f5fa434",
+    "fileName": "019e98c8-6326-79d6-a501-0a8921f1aa8a.png",
+    "prompt": "2D game sprite, side view, a glowing neon jump pad / bounce booster for a cyberpunk runner game. A flat springy platform pad with upward-pointing glowing green arrows or chevrons on top, energetic bounce look, neon green and cyan, flat 2D game-art style, crisp clean edges, wide and short, centered, isolated on a plain empty background.",
+    "negativePrompt": "",
+    "model": "gemini-3.1-flash",
+    "modelName": "Gemini 3.1 Nano Banana 2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

@@ -1,0 +1,15 @@
+{
+    "asset": "b6c3eb5088aabec4d81a020b3e83dee1",
+    "fileName": "019e9442-c837-7607-8400-dd454ca7d24c.mp3",
+    "prompt": "Driving synthwave electronic music, purple and magenta neon mood, pulsing arpeggios, energetic retro-futuristic chase beat, 130bpm.",
+    "negativePrompt": "",
+    "model": "google-lyria-3-clip",
+    "modelName": "Google Lyria 3 Clip",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

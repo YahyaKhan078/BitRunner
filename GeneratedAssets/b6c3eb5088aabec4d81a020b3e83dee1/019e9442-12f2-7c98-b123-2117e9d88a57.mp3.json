@@ -1,0 +1,15 @@
+{
+    "asset": "b6c3eb5088aabec4d81a020b3e83dee1",
+    "fileName": "019e9442-12f2-7c98-b123-2117e9d88a57.mp3",
+    "prompt": "High-energy synthwave music, magenta neon vibes, aggressive electronic drums, futuristic dystopian chase, 135bpm. Dark city at night.",
+    "negativePrompt": "",
+    "model": "google-lyria-3-clip",
+    "modelName": "Google Lyria 3 Clip",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

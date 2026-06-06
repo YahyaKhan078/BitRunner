@@ -1,0 +1,28 @@
+{
+    "asset": "a719d0d804ed0ac4e9a5d566bdf4764c",
+    "fileName": "019e9386-f9f1-7f70-b459-ba1f2b8a2d03.png",
+    "prompt": "16-bit pixel art, cyberpunk MID parallax layer: a row of mid-distance futuristic buildings with lit neon windows, glowing signs and rooftop antennae. Dark building silhouettes with bright neon details. The whole background behind and between the buildings is PLAIN SOLID WHITE (will be made transparent). Buildings occupy the lower two-thirds, top third is empty white sky. Crisp pixels, high detail. Horizontally seamless tileable (left and right edges match). No characters, no readable text.",
+    "negativePrompt": "",
+    "model": "gemini-3.0-pro",
+    "modelName": "Gemini 3.0 Pro",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

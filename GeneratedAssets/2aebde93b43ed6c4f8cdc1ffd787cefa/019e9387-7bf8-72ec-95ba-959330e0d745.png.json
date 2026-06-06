@@ -1,0 +1,28 @@
+{
+    "asset": "2aebde93b43ed6c4f8cdc1ffd787cefa",
+    "fileName": "019e9387-7bf8-72ec-95ba-959330e0d745.png",
+    "prompt": "16-bit pixel art, a seamless horizontally tileable cyberpunk floor/street tile for a 2D runner. Dark metal/concrete panel surface with a bright glowing neon cyan stripe running along the top edge, subtle grime and tech panel lines. The tile must repeat seamlessly left-to-right (left and right edges match exactly). Top-down-front side view as a flat ground strip. Crisp pixels. No characters, no text.",
+    "negativePrompt": "",
+    "model": "gemini-3.0-pro",
+    "modelName": "Gemini 3.0 Pro",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}
